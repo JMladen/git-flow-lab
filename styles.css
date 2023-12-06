@@ -2,7 +2,11 @@
 
 * {
   font-family: "Roboto", sans-serif;
+  /* code change from kimmy */
+  background: red;
 }
+
+
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
